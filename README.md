@@ -23,3 +23,5 @@ Link
 Table
 
 Listing of VHDL source code (with syntax highlighting)
+
+Zmena
