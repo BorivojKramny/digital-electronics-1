@@ -28,4 +28,6 @@ Listing of VHDL source code (with syntax highlighting)
 
 Zmena
 
+Zmena jmena
+
 
