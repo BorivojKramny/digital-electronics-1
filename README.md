@@ -10,13 +10,15 @@ cathegorized-
 1. part
 2. part
 3. part
+
 uncathegorized
+
 +part_A
 +part_B
 +part_C
 
 Link
-[I'm an inline-style link](https://www.google.com)
+[google](https://www.google.com)
 
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
