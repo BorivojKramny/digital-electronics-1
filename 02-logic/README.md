@@ -33,7 +33,7 @@
      | 1 1 |  1  |  1  |  0  |  1  |
      | 1 0 |  1  |  1  |  0  |  0  |
 
-   ![K-maps](images/gerater.jpg)
+   ![K-maps](images/greater.jpg)
 
    Less than:
 
