@@ -22,6 +22,8 @@
    | 15 | 1 1 | 1 1 | 0 | 1 | 0 |
 
 1. Karnaugh maps for other two functions of 2-bit comparator:
+
+
 	chtěl jsem tabulky zapsat digitálně, ale z nějakého důvodu se nevykreslily, děkuji za koment
 
    Greater than:
