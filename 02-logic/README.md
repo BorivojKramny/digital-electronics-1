@@ -22,6 +22,7 @@
    | 15 | 1 1 | 1 1 | 0 | 1 | 0 |
 
 1. Karnaugh maps for other two functions of 2-bit comparator:
+	chtěl jsem tabulky zapsat digitálně, ale z nějakého důvodu se nevykreslily, děkuji za koment
 
    Greater than:
 
@@ -83,4 +84,4 @@ příslušné funkce jsou v obrázcích tabulek
 
 2. Link to your public EDA Playground example:
 
-   [https://www.edaplayground.com/...](https://www.edaplayground.com/...)
+   [https://www.edaplayground.com/...](https://www.edaplayground.com/x/U2wj)
