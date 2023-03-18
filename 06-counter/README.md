@@ -17,9 +17,12 @@
           sig_cnt <= (others => '0'); -- Clear all bits
         elsif (en = '1') then         -- Test if counter is enabled
 
-          -- TEST COUNTER DIRECTION HERE
+          if (cnt_up = '0') then
+             sig_cnt <= sig_cnt - 1;
+                 elsif (cnt_up = '1') then
 
             sig_cnt <= sig_cnt + 1;
+  	  end if;
         end if;
       end if;
     end process p_cnt_up_down;
