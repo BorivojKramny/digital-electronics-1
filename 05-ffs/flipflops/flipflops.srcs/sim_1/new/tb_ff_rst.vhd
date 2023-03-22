@@ -48,7 +48,7 @@ begin
       rst   => sig_rst,
       d     => sig_data,
       q     => sig_dq,
-      q_bar => sig_dq_bar
+          q_bar => sig_dq_bar
     );
 uut_t_ff_rst : entity work.t_ff_rst
     port map (
